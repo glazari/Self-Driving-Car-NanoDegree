@@ -66,8 +66,3 @@ One very serious down side of this algorithm is that it assumes that the car is 
 
 A potential improvement would be to use the line lenght as a weight to decide which lines are more representative of the lanes. take only the top N longest lines into consideration.
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...de blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
-
