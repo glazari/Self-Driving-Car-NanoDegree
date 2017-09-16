@@ -58,9 +58,6 @@ To make sure our lines extend the entire interest region we find the points wher
 	
 Then we find the y that makes the x = 0 (left edge), and then the y that makes the x = x_size (right edge). Then we plot a line between these two points. But, of course, this will draw a line outside the region of interest as well so we pass the image through the region filter one more time.
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
