@@ -29,7 +29,7 @@ The goals / steps of this project are the following:
 ---
 ### **Writeup / README**
 
-You're reading it! and here is a link to my [project code](---)
+You're reading it! and here is a link to my [project code](https://github.com/glazari/Self-Driving-Car-NanoDegree/tree/master/CarND-Traffic-Sign-Classifier-Project)
 
 ### **Data Set Summary & Exploration**
 
